@@ -3,7 +3,7 @@
 ## Description
 Solutions for all free SQL challenges on Leetcode executed on MySQL and MS SQL Server.
 
-### LeetCode Database Probems 🌸
+### LeetCode Database Probems :sunflower:
 Only high-quality problems are selected. Pathological problems such as [Find Median Given Frequency of Numbers](https://leetcode.com/problems/find-median-given-frequency-of-numbers) are not discussed. Entry-level syntax problems such as [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) are not discussed.
 
 ### JOIN 🍊
