@@ -1,10 +1,11 @@
 # SQL 刷题记录
 
 ## Description
-Solutions for all free SQL challenges on Leetcode executed on MySQL and MS SQL Server.
+Records for SQL practices from all necessary resources
 
-### LeetCode Database Probems :sunflower:
-Only high-quality problems are selected. Pathological problems such as [Find Median Given Frequency of Numbers](https://leetcode.com/problems/find-median-given-frequency-of-numbers) are not discussed. Entry-level syntax problems such as [Combine Two Tables](https://leetcode.com/problems/combine-two-tables) are not discussed.
+### LeetCode Database Probems 🌸
+First part, solutions for all free SQL challenges on Leetcode executed on MySQL and MS SQL Server. 
+I'm categorized them based on the major use case.
 
 ### JOIN 🍊
 | \# | Problems | Solutions | Level | Concept |
