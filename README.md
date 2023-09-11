@@ -40,7 +40,11 @@ I'm categorized them based on the major use case.
 | 184 | [184. Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [MySQL, MS SQL](./LeetCode/601_Human_Traffic_of_Stadium/README.md) | Medium | Join, Window, Partition By |
 
 
+### Join
+
+
 - Simple Join
+
 | **#** | **Title** | **Difficulty** | **Solution** | 
 |---|---|---|---|
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [Soln.](../master/Join/Simple-Join/175_Combine_Two_Tables.sql) |
