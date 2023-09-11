@@ -4,10 +4,10 @@
 Records for SQL practices from all necessary resources
 
 ### LeetCode Database Probems 🌸
-First part, solutions for all free SQL challenges on Leetcode executed on MySQL and MS SQL Server. 
-I'm categorized them based on the major use case.
+The first part is solutions for all free SQL challenges on Leetcode executed on MySQL and MS SQL Server. 
+I categorized them based on the major use case.
 
-### Basics
+### Basics 🍪
 
 | **#** | **Title** | **Difficulty** | **Solution** | 
 |---|---|---|---|
