@@ -1,4 +1,4 @@
-# SQL 刷题记录
+# SQL Practices
 
 ## Description
 Records for SQL practices from all necessary resources
