@@ -15,33 +15,30 @@ Records for SQL practices from all necessary resources
 The first part is solutions for all free SQL challenges on Leetcode executed on MySQL and MS SQL Server. 
 I categorized them based on their use case. 
 
-## Basics 🍪
+### Basics 🍪
 
-| **#** | **Title** | **Difficulty** | **Solution** | 
-|---|---|---|---|
-| 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy | [Soln.](https://github.com/livieee/LeetCode---SQL/blob/main/Leetcode%20SQL%20solution/182.%20Duplicate%20Emails.sql) |
-| 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | Easy | [Soln.](https://github.com/livieee/LeetCode---SQL/blob/main/Leetcode%20SQL%20solution/511.%20Game%20Play%20Analysis%20I.sql) |
-| 578 | [Get Highest Answer Rate Question](https://leetcode.com/problems/get-highest-answer-rate-question/) | Medium | [Soln.](https://github.com/livieee/LeetCode---SQL/blob/main/Leetcode%20SQL%20solution/578.%20Get%20Highest%20Answer%20Rate%20Question.sql) | 
-| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) | Easy | [Soln.](https://github.com/livieee/LeetCode---SQL/blob/main/Leetcode%20SQL%20solution/584.%20Find%20Customer%20Referee.sql) | 
-| 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | Easy | [Soln.](https://github.com/livieee/LeetCode---SQL/blob/main/Leetcode%20SQL%20solution/%20586.Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql) | 
-| 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | [Soln.](https://github.com/livieee/LeetCode---SQL/blob/main/Leetcode%20SQL%20solution/595.%20Big%20Countries.sql) |
-| 596 | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/) | Easy | [Soln.](https://github.com/livieee/LeetCode---SQL/blob/main/Leetcode%20SQL%20solution/596.%20Classes%20More%20Than%205%20Students.sql) | 
-| 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number/) | Easy | [Soln.](https://github.com/livieee/LeetCode---SQL/blob/main/Leetcode%20SQL%20solution/619.%20Biggest%20Single%20Number.sql) | 
-| 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | Easy | [Soln.](https://github.com/livieee/LeetCode---SQL/blob/main/Leetcode%20SQL%20solution/620.%20Not%20Boring%20Movies.sql) | 
-| 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | Easy | [Soln.](../master/Basics/1050_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql) | 
-| 1069 | [Product Sales Analysis II](https://leetcode.com/problems/product-sales-analysis-ii/) | Easy | [Soln.](https://github.com/livieee/LeetCode---SQL/blob/main/Leetcode%20SQL%20solution/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.sql) | 
-| 1076 | [Project Employees II](https://leetcode.com/problems/project-employees-ii/) | Easy | [Soln.](../master/Basics/1076_Project_Employees_II.sql) | 
-| 1082 | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-i/) | Easy | [Soln.](../master/Basics/1082_Sales_Analysis_I.sql) | 
-| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | Easy | [Soln.](../master/Basics/1141_User_Activity_for_the_Past_30_Days_I.sql) | 
-| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | [Soln.](../master/Basics/1148_Article_Views_I.sql) | 
-| 1149 | [Article Views II](https://leetcode.com/problems/article-views-ii/) | Medium | [Soln.](../master/Basics/1149_Article_Views_II.sql) | 
-
-
-
+| # | Title | Difficulty | Solution | Concept |
+| --- | --- | --- | --- | --- |
+| 182 | https://leetcode.com/problems/duplicate-emails/ | Easy | https://github.com/livieee/LeetCode---SQL/blob/main/Leetcode%20SQL%20solution/182.%20Duplicate%20Emails.sql | Find Duplication: 1) Group by object+ Having count(object)>1 |
+| 511 | https://leetcode.com/problems/game-play-analysis-i/ | Easy | https://github.com/livieee/LeetCode---SQL/blob/main/Leetcode%20SQL%20solution/511.%20Game%20Play%20Analysis%20I.sql | Group By + Agg |
+| 578 | https://leetcode.com/problems/get-highest-answer-rate-question/ | Medium | https://github.com/livieee/SQL-Practices-/blob/master/Basics/578_Get_Highest_Answer_Rate_Question.sql | Sum Case When |
+| 584 | https://leetcode.com/problems/find-customer-referee/ | Easy | https://github.com/livieee/LeetCode---SQL/blob/main/Leetcode%20SQL%20solution/584.%20Find%20Customer%20Referee.sql | Deal with null case:(COALESCE(column,0) = IfNull |
+| 586 | https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/ | Easy | https://github.com/livieee/LeetCode---SQL/blob/main/Leetcode%20SQL%20solution/%20586.Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql | Group By, Order By Limit |
+| 595 | https://leetcode.com/problems/big-countries/ | Easy | https://github.com/livieee/SQL-Practices-/blob/master/Basics/595_Big_Countries.sql | Simple Filter: Or |
+| 596 | https://leetcode.com/problems/classes-more-than-5-students/ | Easy | https://github.com/livieee/SQL-Practices-/blob/master/Basics/596_Classes_More_Than_5_Students.sql | Group By, Count |
+| 619 | https://leetcode.com/problems/biggest-single-number/ | Easy | https://github.com/livieee/SQL-Practices-/blob/master/Basics/619_Biggest_Single_Number.sql | Simple Subquery, Simple CTE |
+| 620 | https://leetcode.com/problems/not-boring-movies/ | Easy | https://github.com/livieee/SQL-Practices-/blob/master/Basics/620_Not_Boring_Movies.sql | Simple Filter: And Order By |
+| 1050 | https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/ | Easy | https://github.com/livieee/SQL-Practices-/blob/master/Basics/1050_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql | Find two column as a pair to appear: Group By, Having Count(primary key) |
+| 1069 | https://leetcode.com/problems/product-sales-analysis-ii/ | Easy | https://github.com/livieee/SQL-Practices-/blob/master/Basics/1069_Product_Sales_Analysis_II.sql |  |
+| 1076 | https://leetcode.com/problems/project-employees-ii/ | Easy | https://github.com/livieee/SQL-Practices-/blob/master/Basics/1076_Project_Employees_II.sql |  |
+| 1082 | https://leetcode.com/problems/sales-analysis-i/ | Easy | https://github.com/livieee/SQL-Practices-/blob/master/Basics/1082_Sales_Analysis_I.sql |  |
+| 1141 | https://leetcode.com/problems/user-activity-for-the-past-30-days-i/ | Easy | https://github.com/livieee/SQL-Practices-/blob/master/Basics/1141_User_Activity_for_the_Past_30_Days_I.sql |  |
+| 1148 | https://leetcode.com/problems/article-views-i/ | Easy | https://github.com/livieee/SQL-Practices-/blob/master/Basics/1148_Article_Views_I.sql |  |
+| 1149 | https://leetcode.com/problems/article-views-ii/ | Medium | https://github.com/livieee/SQL-Practices-/blob/master/Basics/1149_Article_Views_II.sql |  |
 
 
 ### Join🍊
-#### Simple Join
+- Simple Join
 
 | **#** | **Title** | **Difficulty** | **Solution** | 
 |---|---|---|---|
