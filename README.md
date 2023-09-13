@@ -34,7 +34,7 @@ I categorized them based on their use case.
 | 1076 | [Project Employees II](https://leetcode.com/problems/project-employees-ii/) | Easy | [Soln.](https://github.com/livieee/SQL-Practices-/blob/main/Leetcode%20SQL%20solution/1076.%20Project%20Employees%20II.sql) | 
 | 1082 | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-i/) | Easy | [Soln.](https://github.com/livieee/SQL-Practices-/blob/main/Leetcode%20SQL%20solution/1082.%20Sales%20Analysis%20I.sql) | 
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | Easy | [Soln.](https://github.com/livieee/SQL-Practices-/blob/main/Leetcode%20SQL%20solution/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.sql) | 
-| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | [Soln.](../master/Basics/1148_Article_Views_I.sql) | 
+| 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | [Soln.](https://github.com/livieee/SQL-Practices-/blob/main/Leetcode%20SQL%20solution/1148.%20Article%20Views%20I.sql) | 
 | 1149 | [Article Views II](https://leetcode.com/problems/article-views-ii/) | Medium | [Soln.](https://github.com/livieee/SQL-Practices-/blob/main/Leetcode%20SQL%20solution/1148.%20Article%20Views%20I.sql) | 
 
 
