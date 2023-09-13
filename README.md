@@ -31,11 +31,11 @@ I categorized them based on their use case.
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | Easy | [Soln.](https://github.com/livieee/LeetCode---SQL/blob/main/Leetcode%20SQL%20solution/620.%20Not%20Boring%20Movies.sql) | 
 | 1050 | [Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/) | Easy | [Soln.](../master/Basics/1050_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql) | 
 | 1069 | [Product Sales Analysis II](https://leetcode.com/problems/product-sales-analysis-ii/) | Easy | [Soln.](https://github.com/livieee/LeetCode---SQL/blob/main/Leetcode%20SQL%20solution/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.sql) | 
-| 1076 | [Project Employees II](https://leetcode.com/problems/project-employees-ii/) | Easy | [Soln.](../master/Basics/1076_Project_Employees_II.sql) | 
-| 1082 | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-i/) | Easy | [Soln.](../master/Basics/1082_Sales_Analysis_I.sql) | 
-| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | Easy | [Soln.](../master/Basics/1141_User_Activity_for_the_Past_30_Days_I.sql) | 
+| 1076 | [Project Employees II](https://leetcode.com/problems/project-employees-ii/) | Easy | [Soln.](https://github.com/livieee/SQL-Practices-/blob/main/Leetcode%20SQL%20solution/1076.%20Project%20Employees%20II.sql) | 
+| 1082 | [Sales Analysis I](https://leetcode.com/problems/sales-analysis-i/) | Easy | [Soln.](https://github.com/livieee/SQL-Practices-/blob/main/Leetcode%20SQL%20solution/1082.%20Sales%20Analysis%20I.sql) | 
+| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | Easy | [Soln.](https://github.com/livieee/SQL-Practices-/blob/main/Leetcode%20SQL%20solution/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.sql) | 
 | 1148 | [Article Views I](https://leetcode.com/problems/article-views-i/) | Easy | [Soln.](../master/Basics/1148_Article_Views_I.sql) | 
-| 1149 | [Article Views II](https://leetcode.com/problems/article-views-ii/) | Medium | [Soln.](../master/Basics/1149_Article_Views_II.sql) | 
+| 1149 | [Article Views II](https://leetcode.com/problems/article-views-ii/) | Medium | [Soln.](https://github.com/livieee/SQL-Practices-/blob/main/Leetcode%20SQL%20solution/1148.%20Article%20Views%20I.sql) | 
 
 
 
