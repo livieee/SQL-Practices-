@@ -80,7 +80,7 @@ I categorized them based on their use case.
 | 1336 | [Number of Transactions per Visit](https://leetcode.com/problems/number-of-transactions-per-visit/) | Hard | [Soln.](../master/Join/Simple-Join/1336_Number_of_Transactions_per_Visit.sql) | 
 | 1350 | [Students With Invalid Departments](https://leetcode.com/problems/students-with-invalid-departments/) | Easy | [Soln.](../master/Join/Simple-Join/1350_Students_With_Invalid_Departments.sql) | 
 | 1364 | [Number of Trusted Contacts of a Customer](https://leetcode.com/problems/number-of-trusted-contacts-of-a-customer/) | Medium | [Soln.](../master/Join/Simple-Join/1364_Number_of_Trusted_Contacts_of_a_Customer.sql) |
-| 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | [Soln.](../master/Join/Simple-Join/1378_Replace_Employee_ID_With_The_Unique_Identifier.sql) |
+| 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) | Easy | [Soln.](https://github.com/livieee/SQL-Practices-/blob/main/Leetcode%20SQL%20solution/1378.%20Replace%20Employee%20ID%20With%20The%20Unique%20Identifier.sql) |
 | 1384 | [Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year/) | Hard | [Soln.](../master/Join/Simple-Join/1384_Total_Sales_Amount_by_Year.sql) |
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | Easy | [Soln.](../master/Join/Simple-Join/1407_Top_Travellers.sql) |
 
