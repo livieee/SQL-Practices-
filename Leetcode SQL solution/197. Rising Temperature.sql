@@ -56,3 +56,9 @@ select id
 from temp1
 where DATEDIFF(recordDate,previous_date) = 1 and
       temperature > previous_temp
+
+
+-- solution 2:
+SELECT w1.id
+FROM Weather w1, Weather w2
+WHERE DATEDIFF(w1.recordDate, w2.recordDate) = 1 AND w1.temperature > w2.temperature;
