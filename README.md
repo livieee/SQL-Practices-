@@ -52,7 +52,7 @@ I categorized them based on their use case.
 | 197 | [Rising Temperature](https://leetcode.com/problems/rising-temperature/) | Easy | [Soln.](https://github.com/livieee/SQL-Practices-/blob/main/Leetcode%20SQL%20solution/197.%20Rising%20Temperature.sql) |
 | 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | Hard | [Soln.](../master/Join/Simple-Join/262_Trips_and_Users.sql) |
 | 512 | [Game Play Analysis II](https://leetcode.com/problems/game-play-analysis-ii/) | Easy | [Soln.](../master/Join/Simple-Join/512_Game_Play_Analysis_II.sql) |
-| 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | Medium | [Soln.](../master/Join/Simple-Join/550_Game_Play_Analysis_IV.sql) |
+| 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | Medium | [Soln.](https://github.com/livieee/SQL-Practices-/blob/main/Leetcode%20SQL%20solution/550.%20Game%20Play%20Analysis%20IV.sql) |
 | 570 | [Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) | Medium | [Soln.](../master/Join/Simple-Join/570_Managers_with_at_Least_5_Direct_Reports.sql) |
 | 574 | [Winning Candidate](https://leetcode.com/problems/winning-candidate/) | Medium | [Soln.](../master/Join/Simple-Join/574_Winning_Candidate.sql) |
 | 577 | [Employee Bonus](https://leetcode.com/problems/employee-bonus/) | Easy | [Soln.](../master/Join/Simple-Join/577_Employee_Bonus.sql) |
